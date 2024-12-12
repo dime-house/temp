@@ -4,10 +4,10 @@
 
 **Путь:** `/Users/max/count/bi-client`
 
-### Зависимости
+### Зависимости для запуска
 _Нет зависимостей_
 
-### DevDependencies
+### Зависимости для разработки
 - @angular-eslint/eslint-plugin: 17.5.2
 - @angular-eslint/builder: 17.5.2
 - @angular-eslint/schematics: 17.5.2
@@ -38,7 +38,7 @@ _Нет зависимостей_
 
 **Путь:** `/Users/max/count/bi-client/packages/bi-client`
 
-### Зависимости
+### Зависимости для запуска
 - @angular/animations: v17-lts
 - @angular/cdk: v17-lts
 - @angular/common: v17-lts
@@ -73,7 +73,7 @@ _Нет зависимостей_
 - big.js: ^6.2.1
 - ngx-markdown: ^12.1.0
 
-### DevDependencies
+### Зависимости для разработки
 - @angular-devkit/build-angular: v17-lts
 - @angular/cli: v17-lts
 - @angular/compiler-cli: v17-lts
@@ -96,7 +96,7 @@ _Нет зависимостей_
 
 **Путь:** `/Users/max/count/bi-client/packages/bi-constructor`
 
-### Зависимости
+### Зависимости для запуска
 - @angular/cdk: v17-lts
 - @angular/animations: v17-lts
 - @angular/common: v17-lts
@@ -151,7 +151,7 @@ _Нет зависимостей_
 - big.js: ^6.2.1
 - ngx-markdown: ^12.1.0
 
-### DevDependencies
+### Зависимости для разработки
 - @angular-devkit/build-angular: v17-lts
 - cross-env: ^7.0.3
 - angular-elements-resizer: ^2.1.2
@@ -175,7 +175,7 @@ _Нет зависимостей_
 
 **Путь:** `/Users/max/count/bi-client/packages/bi-core`
 
-### Зависимости
+### Зависимости для запуска
 - @angular/animations: v17-lts
 - @angular-ru/cdk: ~18.7.0
 - @angular/common: v17-lts
@@ -205,7 +205,7 @@ _Нет зависимостей_
 - ngx-markdown: ^12.1.0
 - fast-diff: ^1.3.0
 
-### DevDependencies
+### Зависимости для разработки
 - @angular-devkit/build-angular: v17-lts
 - @angular/cli: v17-lts
 - @angular/compiler-cli: v17-lts
@@ -222,10 +222,10 @@ _Нет зависимостей_
 
 **Путь:** `/Users/max/count/bi-client/packages/bi-core/projects/bi/core`
 
-### Зависимости
+### Зависимости для запуска
 - tslib: ~2.6.3
 
-### DevDependencies
+### Зависимости для разработки
 _Нет dev-зависимостей_
 
 ---
@@ -234,7 +234,7 @@ _Нет dev-зависимостей_
 
 **Путь:** `/Users/max/count/bi-client/packages/bi-render-core`
 
-### Зависимости
+### Зависимости для запуска
 - @nestjs/axios: ~0.1.0
 - @nestjs/common: ~10.3.10
 - @nestjs/core: ~10.3.10
@@ -265,7 +265,7 @@ _Нет dev-зависимостей_
 - date-fns-tz: 2.0.0
 - @kurkle/color: ~0.3.2
 
-### DevDependencies
+### Зависимости для разработки
 - @nestjs/cli: ~10.4.2
 - @nestjs/schematics: ~10.1.3
 - @nestjs/testing: ~10.3.10
@@ -291,7 +291,7 @@ _Нет dev-зависимостей_
 
 **Путь:** `/Users/max/count/bi-client/packages/bi-server`
 
-### Зависимости
+### Зависимости для запуска
 - @nestjs/axios: ~0.1.0
 - @nestjs/common: ~10.3.10
 - @nestjs/core: ~10.3.10
@@ -338,7 +338,7 @@ _Нет dev-зависимостей_
 - jszip: ~3.10.1
 - sharp: 0.32.5
 
-### DevDependencies
+### Зависимости для разработки
 - @nestjs/cli: ~10.4.2
 - @nestjs/schematics: ~10.1.3
 - @nestjs/testing: ~10.3.10
@@ -376,10 +376,10 @@ _Нет dev-зависимостей_
 
 **Путь:** `/Users/max/count/bi-client/packages/bi-test`
 
-### Зависимости
+### Зависимости для запуска
 _Нет зависимостей_
 
-### DevDependencies
+### Зависимости для разработки
 - @playwright/test: ^1.44.0
 - @types/node: 18.17.19
 - docker-compose: ^0.24.3
@@ -394,11 +394,231 @@ _Нет зависимостей_
 
 ---
 
+## bi-etl 
+
+**Путь:** `/Users/max/count/bi-etl`
+
+### Зависимости для запуска
+_Нет зависимостей_
+
+### Зависимости для разработки
+- @angular-eslint/eslint-plugin: ~15.2.1
+- @angular-eslint/builder: ~15.2.1
+- @angular-eslint/schematics: ~15.2.1
+- @angular-eslint/template-parser: ~15.2.1
+- @angular-eslint/eslint-plugin-template: ~15.2.1
+- @types/node: ~16.0.0
+- @typescript-eslint/eslint-plugin: ~5.54.0
+- @typescript-eslint/parser: ~5.54.0
+- eslint: ~8.35.0
+- eslint-config-airbnb-typescript: ~17.0.0
+- eslint-config-prettier: ~8.6.0
+- eslint-plugin-import: ~2.27.5
+- eslint-plugin-prettier: ~4.2.1
+- husky: ~8.0.3
+- lint-staged: ~13.1.2
+- prettier: ~2.8.4
+- stylelint: ~15.2.0
+- stylelint-config-standard-scss: ~7.0.1
+- stylelint-config-prettier: ~9.0.5
+- postcss: ~8.4.7
+
+---
+
+## bi-etl-contructor 
+
+**Путь:** `/Users/max/count/bi-etl/packages/bi-etl-constructor`
+
+### Зависимости для запуска
+- @angular-ru/cdk: ~13.2.3
+- @angular-ru/ngxs: ~13.1.1
+- @angular/animations: v12-lts
+- @angular/cdk: v12-lts
+- @angular/common: v12-lts
+- @angular/compiler: v12-lts
+- @angular/core: v12-lts
+- @angular/forms: v12-lts
+- @angular/platform-browser: v12-lts
+- @angular/platform-browser-dynamic: v12-lts
+- @angular/router: v12-lts
+- @bi/core: ~0.4.3
+- @bi/etl-model: ~1.1.0
+- @ctrl/tinycolor: ~3.6.0
+- @fontsource/noto-sans: ~4.5.11
+- @kurkle/color: ~0.3.2
+- @mints/mcng: ~0.15.1
+- @mints/styles: ~0.26.1
+- @ngneat/until-destroy: ~9.2.3
+- @ngx-translate/core: ~14.0.0
+- @ngx-translate/http-loader: ~7.0.0
+- @ngxs/form-plugin: ~3.7.6
+- @ngxs/logger-plugin: ~3.7.6
+- @ngxs/store: ~3.7.6
+- @types/downloadjs: ^1.4.3
+- angular-gauge: ~4.0.0
+- chart.js: 3.9.1
+- chartjs-plugin-datalabels: ~2.2.0
+- core-js: ~3.25.2
+- cron-validate: ~1.4.5
+- cronstrue: ~2.23.0
+- date-fns: ~2.29.3
+- downloadjs: ~1.4.7
+- immer: ~9.0.19
+- lodash: ~4.17.21
+- monaco-editor: ~0.30.1
+- nanoid: ~4.0.1
+- ng-dynamic-component: ^9.0.0
+- ng2-charts: 3.1.2
+- ngx-markdown: ^12.1.0
+- ngx-monaco-editor: ~12.0.0
+- ngx-socket-io: ~4.1.0
+- primeflex: 3.3.0
+- primeicons: 6.0.1
+- primeng: 12.2.3
+- rxjs: ~7.8.0
+- svg-points: ~6.0.1
+- tslib: ~2.5.0
+- uuid: ~8.3.2
+- yaml: ~2.2.1
+- zone.js: ~0.11.4
+- vanilla-jsoneditor: ~0.16.0
+
+### Зависимости для разработки
+- @angular-devkit/build-angular: v12-lts
+- @angular/cli: v12-lts
+- @angular/compiler-cli: v12-lts
+- @types/lodash: ~4.14.191
+- @types/node: ~16.0.0
+- @types/uuid: ~9.0.1
+- angular-elements-resizer: ~2.1.2
+- babel-loader: ~9.1.2
+- cross-env: ~7.0.3
+- raw-loader: ^4.0.2
+- typescript: ~4.3.5
+- webpack-bundle-analyzer: ~4.8.0
+
+---
+
+## @bi/etl-model 
+
+**Путь:** `/Users/max/count/bi-etl/packages/bi-etl-model`
+
+### Зависимости для запуска
+- tslib: ~2.5.0
+- typescript: ~4.3.5
+
+### Зависимости для разработки
+_Нет dev-зависимостей_
+
+---
+
+## bi-etl-server 
+
+**Путь:** `/Users/max/count/bi-etl/packages/bi-etl-server`
+
+### Зависимости для запуска
+- @nestjs/axios: ~2.0.0
+- @nestjs/common: ~9.3.9
+- @nestjs/core: ~9.3.9
+- @nestjs/platform-express: ~9.3.9
+- @nestjs/swagger: ~6.2.1
+- @nestjs/typeorm: ~9.0.1
+- @nestjs/websockets: ~9.3.9
+- @nestjs/platform-socket.io: ~9.3.9
+- class-transformer: ~0.5.1
+- class-validator: ~0.14.0
+- fs-extra: ~11.1.0
+- lodash: ~4.17.21
+- pg: ~8.10.0
+- reflect-metadata: ~0.1.13
+- rimraf: ~3.0.2
+- rxjs: ~7.8.0
+- socket.io: ~4.6.1
+- swagger-ui-express: ~4.6.2
+- typeorm: ~0.3.12
+- body-parser: ~1.20.2
+- yaml: ~2.2.1
+- uuid: ~8.3.2
+- chokidar: ~3.5.3
+- fast-glob: ~3.2.12
+- object-sizeof: ~2.6.1
+- nedb-promises: ~6.2.1
+- date-fns: ~2.29.3
+- @bi/etl-model: ~1.1.0
+- pidusage: ~3.0.2
+- cpu-stat: ~2.0.1
+- odbc: 2.4.6
+- iniparser: ~1.0.5
+- python-shell: ~5.0.0
+- object-hash: ~3.0.0
+
+### Зависимости для разработки
+- @nestjs/cli: ~9.2.0
+- @nestjs/schematics: ~9.0.4
+- @nestjs/testing: ~9.3.9
+- @types/express: ~4.17.17
+- @types/fs-extra: ~11.0.1
+- @nestjs/mapped-types: ~1.2.2
+- @types/jest: ~29.4.0
+- @types/object-hash: ~3.0.2
+- @types/node: ~16.0.0
+- @types/uuid: ~9.0.1
+- @types/lodash: ~4.14.191
+- @types/supertest: ~2.0.12
+- jest: ~29.5.0
+- source-map-support: ~0.5.21
+- supertest: ~6.3.3
+- ts-jest: ~29.0.5
+- ts-loader: ~9.4.2
+- ts-node: ~10.9.1
+- tsconfig-paths: ~4.1.2
+- typescript: ~4.3.5
+- tslib: ~2.5.0
+- run-script-webpack-plugin: ~0.1.1
+
+---
+
+## expert-project 
+
+**Путь:** `/Users/max/count/devops/docker/nodejs/rootfs/app`
+
+### Зависимости для запуска
+_Нет зависимостей_
+
+### Зависимости для разработки
+_Нет dev-зависимостей_
+
+---
+
+## expert-project 
+
+**Путь:** `/Users/max/count/devops/docker/pnpm/rootfs/app`
+
+### Зависимости для запуска
+_Нет зависимостей_
+
+### Зависимости для разработки
+_Нет dev-зависимостей_
+
+---
+
+## expert-project 
+
+**Путь:** `/Users/max/count/devops/roles/expert/templates`
+
+### Зависимости для запуска
+_Нет зависимостей_
+
+### Зависимости для разработки
+_Нет dev-зависимостей_
+
+---
+
 ## expert 
 
 **Путь:** `/Users/max/count/expert_system/api`
 
-### Зависимости
+### Зависимости для запуска
 - @authenio/samlify-node-xmllint: 2.0.0
 - @aws-sdk/client-ses: 3.316.0
 - @expert/constants: workspace:*
@@ -511,7 +731,7 @@ _Нет зависимостей_
 - tar-stream: 3.1.7
 - bcryptjs: ^2.4.3
 
-### DevDependencies
+### Зависимости для разработки
 - @types/tar-stream: 3.1.3
 - @types/dockerode: 3.3.24
 - @expert/tsconfig: 1.0.3
@@ -576,11 +796,11 @@ _Нет зависимостей_
 
 **Путь:** `/Users/max/count/expert_system/frontend`
 
-### Зависимости
+### Зависимости для запуска
 - moment-timezone: ^0.5.43
 - prismjs: ^1.29.0
 
-### DevDependencies
+### Зависимости для разработки
 - @angular-builders/custom-webpack: 12.1.3
 - @angular-devkit/build-angular: v12-lts
 - @angular-eslint/builder: 12.7.0
@@ -746,10 +966,10 @@ _Нет зависимостей_
 
 **Путь:** `/Users/max/count/expert_system/frontend/packages/boot`
 
-### Зависимости
+### Зависимости для запуска
 _Нет зависимостей_
 
-### DevDependencies
+### Зависимости для разработки
 _Нет dev-зависимостей_
 
 ---
@@ -758,10 +978,10 @@ _Нет dev-зависимостей_
 
 **Путь:** `/Users/max/count/expert_system/frontend/packages/common`
 
-### Зависимости
+### Зависимости для запуска
 _Нет зависимостей_
 
-### DevDependencies
+### Зависимости для разработки
 _Нет dev-зависимостей_
 
 ---
@@ -770,10 +990,10 @@ _Нет dev-зависимостей_
 
 **Путь:** `/Users/max/count/expert_system/frontend/packages/compose`
 
-### Зависимости
+### Зависимости для запуска
 _Нет зависимостей_
 
-### DevDependencies
+### Зависимости для разработки
 _Нет dev-зависимостей_
 
 ---
@@ -782,10 +1002,10 @@ _Нет dev-зависимостей_
 
 **Путь:** `/Users/max/count/expert_system/frontend/packages/machine`
 
-### Зависимости
+### Зависимости для запуска
 _Нет зависимостей_
 
-### DevDependencies
+### Зависимости для разработки
 _Нет dev-зависимостей_
 
 ---
@@ -794,10 +1014,10 @@ _Нет dev-зависимостей_
 
 **Путь:** `/Users/max/count/expert_system/frontend/packages/pinia`
 
-### Зависимости
+### Зависимости для запуска
 _Нет зависимостей_
 
-### DevDependencies
+### Зависимости для разработки
 _Нет dev-зависимостей_
 
 ---
@@ -806,10 +1026,10 @@ _Нет dev-зависимостей_
 
 **Путь:** `/Users/max/count/expert_system/frontend/packages/signals`
 
-### Зависимости
+### Зависимости для запуска
 _Нет зависимостей_
 
-### DevDependencies
+### Зависимости для разработки
 _Нет dev-зависимостей_
 
 ---
@@ -818,10 +1038,10 @@ _Нет dev-зависимостей_
 
 **Путь:** `/Users/max/count/expert_system/frontend/packages/usable`
 
-### Зависимости
+### Зависимости для запуска
 _Нет зависимостей_
 
-### DevDependencies
+### Зависимости для разработки
 _Нет dev-зависимостей_
 
 ---
@@ -830,14 +1050,14 @@ _Нет dev-зависимостей_
 
 **Путь:** `/Users/max/count/expert_system/libraries/composables`
 
-### Зависимости
+### Зависимости для запуска
 - @expert/constants: workspace:*
 - @expert/utils: workspace:*
 - lodash-es: 4.17.21
 - nanoid: 4.0.2
 - vue: 3.2.47
 
-### DevDependencies
+### Зависимости для разработки
 - @expert/tsconfig: 1.0.3
 - @expert/types: workspace:*
 - @types/lodash-es: 4.17.7
@@ -850,11 +1070,11 @@ _Нет dev-зависимостей_
 
 **Путь:** `/Users/max/count/expert_system/libraries/composite`
 
-### Зависимости
+### Зависимости для запуска
 - lodash-es: 4.17.21
 - @expert/utils: workspace:*
 
-### DevDependencies
+### Зависимости для разработки
 - @expert/tsconfig: 1.0.3
 - @expert/types: workspace:*
 - @types/lodash-es: 4.17.7
@@ -866,10 +1086,10 @@ _Нет dev-зависимостей_
 
 **Путь:** `/Users/max/count/expert_system/libraries/constants`
 
-### Зависимости
+### Зависимости для запуска
 - zod: 3.21.4
 
-### DevDependencies
+### Зависимости для разработки
 - @expert/tsconfig: 1.0.3
 - typescript: 5.0.4
 
@@ -879,7 +1099,7 @@ _Нет dev-зависимостей_
 
 **Путь:** `/Users/max/count/expert_system/libraries/engine`
 
-### Зависимости
+### Зависимости для запуска
 - cors: 2.8.5
 - knex: 2.4.2
 - encodeurl: 1.0.2
@@ -899,7 +1119,7 @@ _Нет dev-зависимостей_
 - vm2: 3.9.17
 - @mints/math: 0.1.0
 
-### DevDependencies
+### Зависимости для разработки
 - @expert/tsconfig: 1.0.3
 - @expert/types: workspace:*
 - @types/encodeurl: 1.0.0
@@ -913,10 +1133,10 @@ _Нет dev-зависимостей_
 
 **Путь:** `/Users/max/count/expert_system/libraries/exceptions`
 
-### Зависимости
+### Зависимости для запуска
 _Нет зависимостей_
 
-### DevDependencies
+### Зависимости для разработки
 - @expert/tsconfig: 1.0.3
 - @expert/types: workspace:*
 - @ngneat/falso: 6.4.0
@@ -929,10 +1149,10 @@ _Нет зависимостей_
 
 **Путь:** `/Users/max/count/expert_system/libraries/exec`
 
-### Зависимости
+### Зависимости для запуска
 - expert: workspace:*
 
-### DevDependencies
+### Зависимости для разработки
 _Нет dev-зависимостей_
 
 ---
@@ -941,7 +1161,7 @@ _Нет dev-зависимостей_
 
 **Путь:** `/Users/max/count/expert_system/libraries/extensions-sdk`
 
-### Зависимости
+### Зависимости для запуска
 - @expert/composables: workspace:*
 - @expert/constants: workspace:*
 - @expert/types: workspace:*
@@ -965,7 +1185,7 @@ _Нет dev-зависимостей_
 - rollup-plugin-styles: 4.0.0
 - rollup-plugin-vue: 6.0.0
 
-### DevDependencies
+### Зависимости для разработки
 - @expert/tsconfig: 1.0.3
 - @types/fs-extra: 11.0.1
 - @types/inquirer: 8.2.6
@@ -978,10 +1198,10 @@ _Нет dev-зависимостей_
 
 **Путь:** `/Users/max/count/expert_system/libraries/schema`
 
-### Зависимости
+### Зависимости для запуска
 - knex: 2.4.2
 
-### DevDependencies
+### Зависимости для разработки
 - @expert/tsconfig: 1.0.3
 - typescript: 5.0.4
 
@@ -991,13 +1211,13 @@ _Нет dev-зависимостей_
 
 **Путь:** `/Users/max/count/expert_system/libraries/scheme`
 
-### Зависимости
+### Зависимости для запуска
 - lodash-es: 4.17.21
 - jsonpath-plus: 7.2.0
 - @expert/utils: workspace:*
 - @expert/composite: workspace:*
 
-### DevDependencies
+### Зависимости для разработки
 - @expert/tsconfig: 1.0.3
 - @expert/types: workspace:*
 - @types/lodash-es: 4.17.7
@@ -1009,10 +1229,10 @@ _Нет dev-зависимостей_
 
 **Путь:** `/Users/max/count/expert_system/libraries/sdk`
 
-### Зависимости
+### Зависимости для запуска
 - axios: 1.1.3
 
-### DevDependencies
+### Зависимости для разработки
 - @rollup/plugin-commonjs: 22.0.2
 - @rollup/plugin-json: 4.1.0
 - @rollup/plugin-node-resolve: 13.3.0
@@ -1044,10 +1264,10 @@ _Нет dev-зависимостей_
 
 **Путь:** `/Users/max/count/expert_system/libraries/specs`
 
-### Зависимости
+### Зависимости для запуска
 - openapi3-ts: 3.2.0
 
-### DevDependencies
+### Зависимости для разработки
 - npm-watch: 0.11.0
 - openapi-types: 12.1.0
 - swagger-cli: 4.0.4
@@ -1059,10 +1279,10 @@ _Нет dev-зависимостей_
 
 **Путь:** `/Users/max/count/expert_system/libraries/storage`
 
-### Зависимости
+### Зависимости для запуска
 _Нет зависимостей_
 
-### DevDependencies
+### Зависимости для разработки
 - @expert/tsconfig: 1.0.3
 - typescript: 5.0.4
 
@@ -1072,11 +1292,11 @@ _Нет зависимостей_
 
 **Путь:** `/Users/max/count/expert_system/libraries/storage-driver-local`
 
-### Зависимости
+### Зависимости для запуска
 - @expert/storage: workspace:*
 - @expert/utils: workspace:*
 
-### DevDependencies
+### Зависимости для разработки
 - @expert/tsconfig: 1.0.3
 - @ngneat/falso: 6.4.0
 - typescript: 5.0.4
@@ -1087,14 +1307,14 @@ _Нет зависимостей_
 
 **Путь:** `/Users/max/count/expert_system/libraries/storage-driver-s3`
 
-### Зависимости
+### Зависимости для запуска
 - @aws-sdk/abort-controller: 3.292.0
 - @aws-sdk/client-s3: 3.292.0
 - @aws-sdk/lib-storage: 3.292.0
 - @expert/storage: workspace:*
 - @expert/utils: workspace:*
 
-### DevDependencies
+### Зависимости для разработки
 - @expert/tsconfig: 1.0.3
 - @ngneat/falso: 6.4.0
 - typescript: 5.0.4
@@ -1105,10 +1325,10 @@ _Нет зависимостей_
 
 **Путь:** `/Users/max/count/expert_system/libraries/types`
 
-### Зависимости
+### Зависимости для запуска
 _Нет зависимостей_
 
-### DevDependencies
+### Зависимости для разработки
 - @expert/constants: workspace:*
 - @expert/schema: workspace:*
 - @expert/tsconfig: 1.0.3
@@ -1129,11 +1349,11 @@ _Нет зависимостей_
 
 **Путь:** `/Users/max/count/expert_system/libraries/update-check`
 
-### Зависимости
+### Зависимости для запуска
 - semver: 7.3.8
 - undici: 5.21.0
 
-### DevDependencies
+### Зависимости для разработки
 - @expert/tsconfig: 1.0.3
 - @ngneat/falso: 6.4.0
 - @types/semver: 7.3.13
@@ -1145,7 +1365,7 @@ _Нет зависимостей_
 
 **Путь:** `/Users/max/count/expert_system/libraries/utils`
 
-### Зависимости
+### Зависимости для запуска
 - @expert/constants: workspace:*
 - @expert/storage: workspace:*
 - date-fns: 2.29.3
@@ -1160,7 +1380,7 @@ _Нет зависимостей_
 - vue: 3.2.47
 - xmldom: 0.6.0
 
-### DevDependencies
+### Зависимости для разработки
 - @expert/tsconfig: 1.0.3
 - @expert/types: workspace:*
 - @ngneat/falso: 6.4.0
@@ -1182,10 +1402,10 @@ _Нет зависимостей_
 
 **Путь:** `/Users/max/count/expert_system/libraries/xstate-builder`
 
-### Зависимости
+### Зависимости для запуска
 - xstate: 4.33.6
 
-### DevDependencies
+### Зависимости для разработки
 - @expert/tsconfig: 1.0.3
 - @expert/types: workspace:*
 - typescript: 5.0.4
@@ -1196,10 +1416,10 @@ _Нет зависимостей_
 
 **Путь:** `/Users/max/count/expert_system`
 
-### Зависимости
+### Зависимости для запуска
 _Нет зависимостей_
 
-### DevDependencies
+### Зависимости для разработки
 - @types/crypto-js: ^4.1.2
 - @typescript-eslint/eslint-plugin: 5.59.0
 - @typescript-eslint/parser: 5.59.0
@@ -1216,7 +1436,7 @@ _Нет зависимостей_
 
 **Путь:** `/Users/max/count/mailer`
 
-### Зависимости
+### Зависимости для запуска
 - @nestjs/axios: ^3.0.2
 - @nestjs/common: ^10.0.0
 - @nestjs/core: ^10.0.0
@@ -1244,7 +1464,7 @@ _Нет зависимостей_
 - swagger-ui-express: ^5.0.0
 - typeorm: ^0.3.20
 
-### DevDependencies
+### Зависимости для разработки
 - @nestjs/cli: ^10.0.0
 - @nestjs/schematics: ^10.0.0
 - @nestjs/testing: ^10.0.0
@@ -1278,10 +1498,10 @@ _Нет зависимостей_
 
 **Путь:** `/Users/max/count/mailer/stub`
 
-### Зависимости
+### Зависимости для запуска
 _Нет зависимостей_
 
-### DevDependencies
+### Зависимости для разработки
 - simple-stub-server: ^1.1.15
 
 ---
@@ -1290,10 +1510,10 @@ _Нет зависимостей_
 
 **Путь:** `/Users/max/count/mints`
 
-### Зависимости
+### Зависимости для запуска
 _Нет зависимостей_
 
-### DevDependencies
+### Зависимости для разработки
 - @angular-eslint/builder: 17.5.2
 - @angular-eslint/eslint-plugin: 17.5.2
 - @angular-eslint/schematics: 17.5.2
@@ -1321,7 +1541,7 @@ _Нет зависимостей_
 
 **Путь:** `/Users/max/count/mints/packages/demo-site`
 
-### Зависимости
+### Зависимости для запуска
 - @angular/animations: v17-lts
 - @angular/common: v17-lts
 - @angular/cdk: v17-lts
@@ -1358,7 +1578,7 @@ _Нет зависимостей_
 - core-js: 3.37.1
 - css-selector-generator: ^3.6.8
 
-### DevDependencies
+### Зависимости для разработки
 - @angular-devkit/build-angular: v17-lts
 - @angular/cli: v17-lts
 - @angular/compiler-cli: v17-lts
@@ -1378,10 +1598,10 @@ _Нет зависимостей_
 
 **Путь:** `/Users/max/count/mints/packages/demo-site/stub-server`
 
-### Зависимости
+### Зависимости для запуска
 _Нет зависимостей_
 
-### DevDependencies
+### Зависимости для разработки
 - simple-stub-server: ^1.1.15
 
 ---
@@ -1390,10 +1610,10 @@ _Нет зависимостей_
 
 **Путь:** `/Users/max/count/mints/packages/math`
 
-### Зависимости
+### Зависимости для запуска
 - mathjs: ^11.4.0
 
-### DevDependencies
+### Зависимости для разработки
 - typescript: 5.4.5
 - @babel/preset-typescript: 7.22.15
 - memfs: 4.5.0
@@ -1408,10 +1628,10 @@ _Нет зависимостей_
 
 **Путь:** `/Users/max/count/mints/packages/mints-icon-pack`
 
-### Зависимости
+### Зависимости для запуска
 _Нет зависимостей_
 
-### DevDependencies
+### Зависимости для разработки
 - ts-node: 10.9.2
 
 ---
@@ -1420,7 +1640,7 @@ _Нет зависимостей_
 
 **Путь:** `/Users/max/count/mints/packages/ng-components`
 
-### Зависимости
+### Зависимости для запуска
 - @angular/animations: v17-lts
 - @angular/common: v17-lts
 - @angular/compiler: v17-lts
@@ -1446,7 +1666,7 @@ _Нет зависимостей_
 - svg-points: ^6.0.1
 - fast-diff: ^1.3.0
 
-### DevDependencies
+### Зависимости для разработки
 - @angular-devkit/build-angular: v17-lts
 - @angular/cli: v17-lts
 - @angular/compiler-cli: v17-lts
@@ -1468,10 +1688,10 @@ _Нет зависимостей_
 
 **Путь:** `/Users/max/count/mints/packages/ng-components/projects/mints/mcng`
 
-### Зависимости
+### Зависимости для запуска
 _Нет зависимостей_
 
-### DevDependencies
+### Зависимости для разработки
 _Нет dev-зависимостей_
 
 ---
@@ -1480,7 +1700,7 @@ _Нет dev-зависимостей_
 
 **Путь:** `/Users/max/count/mints/packages/storybook`
 
-### Зависимости
+### Зависимости для запуска
 - @angular/animations: v17-lts
 - @angular/common: v17-lts
 - @angular/compiler: v17-lts
@@ -1499,7 +1719,7 @@ _Нет dev-зависимостей_
 - ngx-echarts: ^8.0.1
 - uuid: ^8.3.2
 
-### DevDependencies
+### Зависимости для разработки
 - @angular-devkit/build-angular: v17-lts
 - @angular/cli: v17-lts
 - @angular/compiler-cli: v17-lts
@@ -1525,10 +1745,10 @@ _Нет dev-зависимостей_
 
 **Путь:** `/Users/max/count/mints/packages/styles`
 
-### Зависимости
+### Зависимости для запуска
 - @fontsource/noto-sans: 4.5.11
 
-### DevDependencies
+### Зависимости для разработки
 - ts-node: ^10.9.2
 
 ---
@@ -1537,10 +1757,10 @@ _Нет dev-зависимостей_
 
 **Путь:** `/Users/max/count/mints/packages/test`
 
-### Зависимости
+### Зависимости для запуска
 _Нет зависимостей_
 
-### DevDependencies
+### Зависимости для разработки
 - @playwright/test: 1.45.0
 - @testing-library/webdriverio: ^3.2.1
 - @types/node: 20.12.7
@@ -1572,7 +1792,7 @@ _Нет зависимостей_
 
 **Путь:** `/Users/max/count/mints/packages/theme-generator`
 
-### Зависимости
+### Зависимости для запуска
 - @angular-devkit/build-angular: v17-lts
 - @fontsource/noto-sans: 4.5.11
 - uglify-js: ^3.14.3
@@ -1602,7 +1822,7 @@ _Нет зависимостей_
 - copy-webpack-plugin: ^9.0.1
 - tslib: 2.6.2
 
-### DevDependencies
+### Зависимости для разработки
 - @types/chalk: ^2.2.0
 - @types/sass: ^1.43.0
 - @types/css: ^0.0.33
@@ -1624,7 +1844,7 @@ _Нет зависимостей_
 
 **Путь:** `/Users/max/count/scheduler`
 
-### Зависимости
+### Зависимости для запуска
 - @nestjs/axios: ^3.0.2
 - @nestjs/common: ^10.0.0
 - @nestjs/core: ^10.0.0
@@ -1646,7 +1866,7 @@ _Нет зависимостей_
 - swagger-ui-express: ^5.0.0
 - typeorm: ^0.3.20
 
-### DevDependencies
+### Зависимости для разработки
 - @nestjs/cli: ^10.0.0
 - @nestjs/schematics: ^10.0.0
 - @nestjs/testing: ^10.0.0
@@ -1675,10 +1895,10 @@ _Нет зависимостей_
 
 **Путь:** `/Users/max/count/scheduler/stub`
 
-### Зависимости
+### Зависимости для запуска
 _Нет зависимостей_
 
-### DevDependencies
+### Зависимости для разработки
 - simple-stub-server: ^1.1.15
 
 ---
@@ -1687,11 +1907,11 @@ _Нет зависимостей_
 
 **Путь:** `/Users/max/count/users`
 
-### Зависимости
+### Зависимости для запуска
 - execa: latest
 - ioredis: latest
 
-### DevDependencies
+### Зависимости для разработки
 - @types/node: 18.15.3
 
 ---
